@@ -1,0 +1,23 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Downloads/zips/
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Downloads/zips,file:$HOME/Downloads/zips
+Recent URLs[$e]=file:$HOME/Downloads/zips/
+detailViewIconSize=16
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAdEAAAP2AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+eDP=eDP
+eDP Height 1920x1080 eDP=1048
+eDP Width 1920x1080 eDP=936
+eDP XPosition 1920x1080 eDP=16
+eDP YPosition 1920x1080 eDP=16
+eDP-1=eDP-1
+eDP-1 Height 1920x1080 eDP-1=1046
+eDP-1 Width 1920x1080 eDP-1=465
+eDP-1 XPosition 1920x1080 eDP-1=1448
+eDP-1 YPosition 1920x1080 eDP-1=27
+splitterSizes=308,153

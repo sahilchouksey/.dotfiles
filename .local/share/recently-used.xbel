@@ -1,0 +1,2302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/xix3r/Chrome%20Passwords.csv" added="2024-07-28T17:34:17.417637Z" modified="2024-07-28T17:34:17.422044Z" visited="2024-07-28T17:34:17.417637Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-07-28T17:34:17.417638Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-07-28T17:34:17.422040Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/unnamed.jpg" added="2024-07-28T17:47:59.267832Z" modified="2024-07-28T18:58:25.405654Z" visited="2024-07-28T17:47:59.267833Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2024-07-28T17:47:59.267834Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-07-28T18:58:25.405653Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/.fonts/FiraCodeNerdFontMono-Retina.ttf" added="2024-07-28T18:02:17.320165Z" modified="2024-07-28T18:02:17.320168Z" visited="2024-07-28T18:02:17.320166Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2024-07-28T18:02:17.320167Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/.fonts/FiraCode-Regular.ttf" added="2024-07-28T18:02:24.050196Z" modified="2024-07-28T18:02:24.050201Z" visited="2024-07-28T18:02:24.050197Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2024-07-28T18:02:24.050199Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Pictures/Screenshots/Screenshot%20from%202024-07-28%2023-55-28.png" added="2024-07-28T18:25:28.644762Z" modified="2024-07-28T18:25:28.644763Z" visited="2024-07-28T18:25:28.644762Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-07-28T18:25:28.644762Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/279984.jpg" added="2024-07-28T18:58:20.119375Z" modified="2024-07-28T18:58:20.369979Z" visited="2024-07-28T18:58:20.119377Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-07-28T18:58:20.119378Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-07-28T18:58:20.369977Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/randall-kaplan-frontend/public/videospage/upnext/v1.jpg" added="2024-07-29T06:58:33.388661Z" modified="2024-07-29T06:58:33.393847Z" visited="2024-07-29T06:58:33.388662Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-07-29T06:58:33.388663Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-07-29T06:58:33.393846Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/randall-kaplan-frontend/public/videospage/upnext/v2.webp" added="2024-07-29T06:58:33.388672Z" modified="2024-07-29T06:58:33.393850Z" visited="2024-07-29T06:58:33.388672Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-07-29T06:58:33.388672Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-07-29T06:58:33.393850Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/randall-kaplan-frontend/public/videospage/upnext/v3.jpg" added="2024-07-29T06:58:33.388675Z" modified="2024-07-29T06:58:33.393856Z" visited="2024-07-29T06:58:33.388675Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-07-29T06:58:33.388675Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-07-29T06:58:33.393856Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/randall-kaplan-frontend/public/videospage/upnext/v4.webp" added="2024-07-29T06:58:33.388678Z" modified="2024-07-29T06:58:33.393859Z" visited="2024-07-29T06:58:33.388679Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-07-29T06:58:33.388679Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-07-29T06:58:33.393858Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/randall-kaplan-frontend/public/videospage/upnext/v5.jpg" added="2024-07-29T06:58:33.388683Z" modified="2024-07-29T06:58:33.393861Z" visited="2024-07-29T06:58:33.388683Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-07-29T06:58:33.388684Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-07-29T06:58:33.393860Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/randall-kaplan-frontend/public/videospage/upnext/v6.webp" added="2024-07-29T06:58:33.388686Z" modified="2024-07-29T06:58:33.393852Z" visited="2024-07-29T06:58:33.388687Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-07-29T06:58:33.388687Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-07-29T06:58:33.393852Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/randall-kaplan-frontend/public/videospage/upnext/v7.jpg" added="2024-07-29T06:58:33.388690Z" modified="2024-07-29T06:58:33.393854Z" visited="2024-07-29T06:58:33.388690Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-07-29T06:58:33.388691Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-07-29T06:58:33.393854Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/Thumbnails/1.png" added="2024-07-29T07:06:38.065662Z" modified="2024-07-29T07:06:38.065667Z" visited="2024-07-29T07:06:38.065663Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-07-29T07:06:38.065666Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/Thumbnails/2.png" added="2024-07-29T07:06:40.865086Z" modified="2024-07-29T07:06:40.865090Z" visited="2024-07-29T07:06:40.865087Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-07-29T07:06:40.865088Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/Thumbnails/3.png" added="2024-07-29T07:06:41.704404Z" modified="2024-07-29T07:06:42.971283Z" visited="2024-07-29T07:06:41.704405Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-07-29T07:06:42.971279Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/Thumbnails/4.png" added="2024-07-29T07:06:44.856620Z" modified="2024-07-29T07:06:44.856625Z" visited="2024-07-29T07:06:44.856621Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-07-29T07:06:44.856623Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/Thumbnails/5.png" added="2024-07-29T07:06:47.451439Z" modified="2024-07-29T07:06:47.451443Z" visited="2024-07-29T07:06:47.451440Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-07-29T07:06:47.451441Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/Thumbnails/6.png" added="2024-07-29T07:06:48.233698Z" modified="2024-07-29T07:06:48.233702Z" visited="2024-07-29T07:06:48.233699Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-07-29T07:06:48.233700Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/Thumbnails/7.png" added="2024-07-29T07:06:49.212102Z" modified="2024-07-29T07:06:49.212106Z" visited="2024-07-29T07:06:49.212103Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-07-29T07:06:49.212105Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/%5BMockup%5D%20iPhone%2013.jpg" added="2024-07-29T09:36:16.159678Z" modified="2024-07-29T09:36:16.159681Z" visited="2024-07-29T09:36:16.159678Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2024-07-29T09:36:16.159680Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/home" added="2024-07-29T09:36:49.575511Z" modified="2024-07-29T09:36:49.575515Z" visited="2024-07-29T09:36:49.575512Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-07-29T09:36:49.575513Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/home/hero" added="2024-07-29T09:36:52.523529Z" modified="2024-07-29T09:36:52.523532Z" visited="2024-07-29T09:36:52.523530Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-07-29T09:36:52.523531Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website" added="2024-07-29T09:47:25.425304Z" modified="2024-07-29T09:47:25.434033Z" visited="2024-07-29T09:47:25.425306Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-07-29T09:47:25.434031Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/Image.png" added="2024-07-29T10:06:19.414947Z" modified="2024-07-29T10:07:32.598634Z" visited="2024-07-29T10:06:19.414948Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-07-29T10:07:32.593520Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-07-29T10:07:32.598634Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/bg.png" added="2024-07-29T10:09:46.471678Z" modified="2024-07-29T10:10:25.168699Z" visited="2024-07-29T10:09:46.471679Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-07-29T10:10:25.168698Z" count="3"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-07-29T10:10:25.163702Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/overlay.jpeg" added="2024-07-29T10:09:50.589741Z" modified="2024-07-29T10:10:22.206484Z" visited="2024-07-29T10:09:50.589742Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-07-29T10:10:22.206483Z" count="3"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-07-29T10:10:22.200912Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/Pasted%20image.png" added="2024-07-29T10:11:29.890224Z" modified="2024-07-29T10:12:11.941710Z" visited="2024-07-29T10:11:29.890224Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2024-07-29T10:12:11.492483Z" count="3"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2024-07-29T10:12:11.941708Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/image%201.png" added="2024-07-29T10:15:33.903654Z" modified="2024-08-06T10:11:55.099386Z" visited="2024-07-29T10:15:33.903655Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/chromium_chromium.desktop /snap/bin/chromium %U&apos;" modified="2024-07-29T10:15:55.123571Z" count="3"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2024-07-29T10:15:53.780827Z" count="2"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-06T10:11:55.094174Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-06T10:11:55.099384Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/Group%201.jpg" added="2024-07-29T10:17:46.841591Z" modified="2024-07-29T10:17:46.841596Z" visited="2024-07-29T10:17:46.841592Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2024-07-29T10:17:46.841594Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/home/about-whisp" added="2024-07-30T05:48:45.560946Z" modified="2024-07-30T05:48:45.560954Z" visited="2024-07-30T05:48:45.560947Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-07-30T05:48:45.560952Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/home/features-whisp" added="2024-07-30T09:26:40.494416Z" modified="2024-07-30T09:26:40.494420Z" visited="2024-07-30T09:26:40.494417Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-07-30T09:26:40.494418Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/home/features-whisp/mage_health-square-fill.svg" added="2024-07-30T09:43:27.608569Z" modified="2024-07-30T09:43:27.608572Z" visited="2024-07-30T09:43:27.608570Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-07-30T09:43:27.608571Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/%5BMockup%5D%20iPhone%2013%20(5).png" added="2024-07-30T09:56:01.374079Z" modified="2024-07-30T09:56:01.374082Z" visited="2024-07-30T09:56:01.374080Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-07-30T09:56:01.374080Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/public.png" added="2024-07-30T09:56:38.725732Z" modified="2024-07-30T09:56:38.725735Z" visited="2024-07-30T09:56:38.725733Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-07-30T09:56:38.725733Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/home/features-whisp/bg.png" added="2024-07-30T10:01:03.853973Z" modified="2024-07-30T10:01:04.104800Z" visited="2024-07-30T10:01:03.853974Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-07-30T10:01:03.853975Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-07-30T10:01:04.104798Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/test" added="2024-07-30T10:36:34.915210Z" modified="2024-07-30T10:36:34.915213Z" visited="2024-07-30T10:36:34.915211Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-07-30T10:36:34.915212Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/blogs" added="2024-07-31T06:01:50.251882Z" modified="2024-07-31T06:01:50.251889Z" visited="2024-07-31T06:01:50.251883Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-07-31T06:01:50.251885Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/blogs/featured" added="2024-07-31T06:01:52.832076Z" modified="2024-07-31T06:01:52.832080Z" visited="2024-07-31T06:01:52.832077Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-07-31T06:01:52.832078Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/icons" added="2024-07-31T06:03:30.947452Z" modified="2024-07-31T06:03:30.947457Z" visited="2024-07-31T06:03:30.947454Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-07-31T06:03:30.947455Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/home/features-whisp/xix3r.png" added="2024-07-31T08:59:05.296402Z" modified="2024-07-31T08:59:29.816911Z" visited="2024-07-31T08:59:05.296402Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-07-31T08:59:29.816910Z" count="2"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-07-31T08:59:29.812105Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/home/others/get-started.png" added="2024-07-31T09:19:24.885913Z" modified="2024-07-31T09:19:25.136671Z" visited="2024-07-31T09:19:24.885914Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-07-31T09:19:24.885923Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-07-31T09:19:25.136669Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/contact" added="2024-07-31T10:57:48.910238Z" modified="2024-07-31T10:57:48.910242Z" visited="2024-07-31T10:57:48.910239Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-07-31T10:57:48.910240Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/contact/form.png" added="2024-07-31T10:58:06.361263Z" modified="2024-07-31T10:58:06.361269Z" visited="2024-07-31T10:58:06.361265Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-07-31T10:58:06.361267Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/blogs/all" added="2024-08-01T06:09:13.090727Z" modified="2024-08-01T06:09:13.090733Z" visited="2024-08-01T06:09:13.090729Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-08-01T06:09:13.090730Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/blogs/all/2.png" added="2024-08-01T06:09:39.358139Z" modified="2024-08-01T06:10:03.284408Z" visited="2024-08-01T06:09:39.358140Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-08-01T06:10:03.284404Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/blogs/all/Pasted%20image.png" added="2024-08-01T06:09:57.771159Z" modified="2024-08-01T06:09:57.771162Z" visited="2024-08-01T06:09:57.771159Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-08-01T06:09:57.771160Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/blogs/all/3.png" added="2024-08-01T06:10:04.479022Z" modified="2024-08-01T06:10:04.479025Z" visited="2024-08-01T06:10:04.479022Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-08-01T06:10:04.479023Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/blogs/all/1.png" added="2024-08-01T06:10:06.508094Z" modified="2024-08-01T06:10:06.508098Z" visited="2024-08-01T06:10:06.508095Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-08-01T06:10:06.508096Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/others/welcome-to-whisp.png" added="2024-08-01T06:53:24.799843Z" modified="2024-08-01T06:53:24.799847Z" visited="2024-08-01T06:53:24.799844Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-08-01T06:53:24.799845Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/blog" added="2024-08-01T09:46:46.113943Z" modified="2024-08-01T09:46:46.113946Z" visited="2024-08-01T09:46:46.113943Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-08-01T09:46:46.113944Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/blog/1.png" added="2024-08-01T09:46:55.773126Z" modified="2024-08-01T09:46:55.773129Z" visited="2024-08-01T09:46:55.773127Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-08-01T09:46:55.773128Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/left-img.png" added="2024-08-01T12:07:40.681804Z" modified="2024-08-06T11:57:17.429318Z" visited="2024-08-01T12:07:40.681805Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-06T11:57:17.178522Z" count="3"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-06T11:57:17.429315Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/home/features-whisp/public.png" added="2024-08-01T12:09:54.536229Z" modified="2024-08-01T12:09:54.541619Z" visited="2024-08-01T12:09:54.536230Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-01T12:09:54.536231Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-01T12:09:54.541618Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/Whisp%20App%20Admin.postman_collection_28_06_2024.json" added="2024-08-02T07:15:11.689775Z" modified="2024-08-02T07:15:11.694637Z" visited="2024-08-02T07:15:11.689776Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.postman" exec="&apos;gio open %u&apos;" modified="2024-08-02T07:15:11.689777Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-02T07:15:11.694636Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/home/hero/tablet-bg.png" added="2024-08-02T09:27:17.917451Z" modified="2024-08-02T09:27:18.169311Z" visited="2024-08-02T09:27:17.917452Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-02T09:27:17.917454Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-02T09:27:18.169309Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/others/get-started-tablet.png" added="2024-08-02T10:20:39.533582Z" modified="2024-08-02T10:32:20.026722Z" visited="2024-08-02T10:20:39.533583Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-02T10:20:39.533584Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-02T10:20:39.784541Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-08-02T10:32:20.026720Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/others/get-started.png" added="2024-08-02T10:32:21.580090Z" modified="2024-08-02T10:32:21.580094Z" visited="2024-08-02T10:32:21.580091Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-08-02T10:32:21.580092Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/home/hero/phone.png" added="2024-08-06T09:29:57.823861Z" modified="2024-08-06T10:00:17.167281Z" visited="2024-08-06T09:29:57.823862Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-06T10:00:17.162563Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-06T10:00:17.167280Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/home/about-whisp/left-img-bg.png" added="2024-08-06T09:30:31.372926Z" modified="2024-08-06T10:08:05.218087Z" visited="2024-08-06T09:30:31.372927Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-06T10:08:05.213250Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-06T10:08:05.218086Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/whispapp-website/public/images/home/about-whisp/left-img.png" added="2024-08-06T10:04:25.163283Z" modified="2024-08-06T10:08:55.220731Z" visited="2024-08-06T10:04:25.163283Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-06T10:08:55.215505Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-06T10:08:55.220730Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/image_720.png" added="2024-08-06T11:58:39.592165Z" modified="2024-08-06T11:58:39.849658Z" visited="2024-08-06T11:58:39.592166Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-06T11:58:39.592167Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-06T11:58:39.849656Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/phone.png" added="2024-08-06T11:58:57.736245Z" modified="2024-08-06T11:58:57.989364Z" visited="2024-08-06T11:58:57.736246Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-06T11:58:57.736247Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-06T11:58:57.989361Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/phone_720.png" added="2024-08-06T11:59:20.092697Z" modified="2024-08-06T11:59:20.343386Z" visited="2024-08-06T11:59:20.092698Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-06T11:59:20.092698Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-06T11:59:20.343384Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads" added="2024-08-07T04:06:27.069336Z" modified="2024-08-07T04:06:27.069339Z" visited="2024-08-07T04:06:27.069337Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nautilus --new-window %U&apos;" modified="2024-08-07T04:06:27.069337Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/favicon_io.zip" added="2024-08-07T04:06:40.080017Z" modified="2024-08-07T04:06:40.080021Z" visited="2024-08-07T04:06:40.080018Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nautilus --new-window %U&apos;" modified="2024-08-07T04:06:40.080019Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/Frame%201171277804%20(1).png" added="2024-08-07T04:07:29.816140Z" modified="2024-08-07T04:07:29.827040Z" visited="2024-08-07T04:07:29.816141Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-07T04:07:29.816142Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-07T04:07:29.827038Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/wallhaven-6o7ykl.png" added="2024-08-07T04:48:17.537253Z" modified="2024-08-07T04:48:17.787259Z" visited="2024-08-07T04:48:17.537254Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-07T04:48:17.537255Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-07T04:48:17.787257Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/wallhaven-4lqrzp.jpg" added="2024-08-07T04:48:23.082782Z" modified="2024-08-07T04:48:23.333911Z" visited="2024-08-07T04:48:23.082782Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-07T04:48:23.082783Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-07T04:48:23.333910Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/wallhaven-zmvrwg.jpg" added="2024-08-07T04:48:27.796364Z" modified="2024-08-07T04:48:28.047743Z" visited="2024-08-07T04:48:27.796365Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-07T04:48:27.796366Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-07T04:48:28.047742Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/wallhaven-6d3z2w.png" added="2024-08-07T04:53:53.261083Z" modified="2024-08-07T04:53:53.511660Z" visited="2024-08-07T04:53:53.261084Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-07T04:53:53.261085Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-07T04:53:53.511658Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/wallhaven-o5qell.jpg" added="2024-08-07T04:53:55.907020Z" modified="2024-08-07T04:53:56.157623Z" visited="2024-08-07T04:53:55.907021Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-07T04:53:55.907023Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-07T04:53:56.157621Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/wallhaven-gp6l9q.jpg" added="2024-08-07T04:53:58.819072Z" modified="2024-08-07T04:53:59.070015Z" visited="2024-08-07T04:53:58.819073Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-07T04:53:58.819073Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-07T04:53:59.070013Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/wallhaven-l8x7mq.png" added="2024-08-07T04:54:02.068960Z" modified="2024-08-07T04:54:02.319537Z" visited="2024-08-07T04:54:02.068961Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-07T04:54:02.068962Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-07T04:54:02.319535Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/wallhaven-qzk5pd.jpg" added="2024-08-07T04:54:06.034970Z" modified="2024-08-07T04:54:06.285810Z" visited="2024-08-07T04:54:06.034972Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-07T04:54:06.034973Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-07T04:54:06.285808Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/wallhaven-m3ellk.png" added="2024-08-07T04:54:10.304396Z" modified="2024-08-07T04:54:10.555347Z" visited="2024-08-07T04:54:10.304398Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-07T04:54:10.304400Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-07T04:54:10.555345Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/wallhaven-jx7xp5.png" added="2024-08-07T04:54:13.099023Z" modified="2024-08-07T04:54:13.349678Z" visited="2024-08-07T04:54:13.099024Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-07T04:54:13.099025Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-07T04:54:13.349676Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/wallhaven-2yxp16.jpg" added="2024-08-07T04:54:15.917868Z" modified="2024-08-07T04:54:16.168381Z" visited="2024-08-07T04:54:15.917868Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-07T04:54:15.917869Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-07T04:54:16.168378Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/wallhaven-zxmzly.jpg" added="2024-08-07T04:54:18.365178Z" modified="2024-08-07T04:54:18.615441Z" visited="2024-08-07T04:54:18.365179Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-07T04:54:18.365179Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-07T04:54:18.615439Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/nitecapp-landing/916c49cf5635e80b7942690278a24f7b.png" added="2024-08-09T05:36:31.307112Z" modified="2024-08-09T05:36:31.557583Z" visited="2024-08-09T05:36:31.307113Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-09T05:36:31.307114Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-09T05:36:31.557581Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-yx6e9l.jpg" added="2024-08-10T15:53:45.023439Z" modified="2024-08-10T15:53:45.274427Z" visited="2024-08-10T15:53:45.023440Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:53:45.023441Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:53:45.274425Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-2yvywx.png" added="2024-08-10T15:53:49.610179Z" modified="2024-08-10T15:53:49.861346Z" visited="2024-08-10T15:53:49.610180Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:53:49.610181Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:53:49.861342Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-o5qeem.jpg" added="2024-08-10T15:53:52.909782Z" modified="2024-08-10T15:53:53.160285Z" visited="2024-08-10T15:53:52.909783Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:53:52.909784Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:53:53.160283Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-7pvk1e.jpg" added="2024-08-10T15:53:57.753646Z" modified="2024-08-10T15:53:58.003977Z" visited="2024-08-10T15:53:57.753646Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:53:57.753647Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:53:58.003975Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-p91z89.jpg" added="2024-08-10T15:54:00.302044Z" modified="2024-08-10T21:15:52.436663Z" visited="2024-08-10T15:54:00.302045Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T21:15:52.436662Z" count="2"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T21:15:52.430646Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-85vm3k.png" added="2024-08-10T15:54:03.307008Z" modified="2024-08-10T15:54:03.557979Z" visited="2024-08-10T15:54:03.307009Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:54:03.307010Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:54:03.557977Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-gp6gp7.png" added="2024-08-10T15:54:05.897073Z" modified="2024-08-10T15:54:06.147465Z" visited="2024-08-10T15:54:05.897074Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:54:05.897075Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:54:06.147464Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-o5qw8p.jpg" added="2024-08-10T15:54:08.548037Z" modified="2024-08-10T15:54:08.799699Z" visited="2024-08-10T15:54:08.548038Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:54:08.548040Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:54:08.799697Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-p91513.jpg" added="2024-08-10T15:54:11.222791Z" modified="2024-08-10T15:54:11.473388Z" visited="2024-08-10T15:54:11.222792Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:54:11.222793Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:54:11.473381Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-3lvyjy.jpg" added="2024-08-10T15:54:14.057624Z" modified="2024-08-10T15:54:14.307776Z" visited="2024-08-10T15:54:14.057624Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:54:14.057625Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:54:14.307773Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-5gvjo8.jpg" added="2024-08-10T15:54:16.373333Z" modified="2024-08-10T15:54:16.624108Z" visited="2024-08-10T15:54:16.373334Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:54:16.373335Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:54:16.624105Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-9dv7v8.jpg" added="2024-08-10T15:54:18.925966Z" modified="2024-08-13T04:11:48.480079Z" visited="2024-08-10T15:54:18.925967Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-13T04:11:48.480078Z" count="2"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-13T04:11:48.475193Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-kxev51.jpg" added="2024-08-10T15:54:21.403853Z" modified="2024-08-10T15:54:21.654046Z" visited="2024-08-10T15:54:21.403853Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:54:21.403854Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:54:21.654043Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-yx63dd.jpg" added="2024-08-10T15:54:24.023635Z" modified="2024-08-10T15:54:24.274382Z" visited="2024-08-10T15:54:24.023636Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:54:24.023637Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:54:24.274379Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-3lver9.jpg" added="2024-08-10T15:54:26.598347Z" modified="2024-08-10T15:54:26.849430Z" visited="2024-08-10T15:54:26.598348Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:54:26.598348Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:54:26.849426Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-p91xxe.jpg" added="2024-08-10T15:54:29.879709Z" modified="2024-08-10T15:54:30.130650Z" visited="2024-08-10T15:54:29.879709Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:54:29.879710Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:54:30.130649Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-7pvqqv.png" added="2024-08-10T15:54:33.742995Z" modified="2024-08-10T15:54:33.993136Z" visited="2024-08-10T15:54:33.742997Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:54:33.742998Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:54:33.993133Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-6d3zz6.jpg" added="2024-08-10T15:54:36.725376Z" modified="2024-08-10T15:54:36.976011Z" visited="2024-08-10T15:54:36.725378Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:54:36.725378Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:54:36.976009Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-m35rwm.jpg" added="2024-08-10T15:54:39.825312Z" modified="2024-08-13T04:11:43.264853Z" visited="2024-08-10T15:54:39.825313Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-13T04:11:43.264852Z" count="2"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-13T04:11:43.260169Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-jxprky.jpg" added="2024-08-10T15:54:42.890602Z" modified="2024-08-10T15:54:43.141101Z" visited="2024-08-10T15:54:42.890603Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:54:42.890604Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:54:43.141098Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-o5qwl7.jpg" added="2024-08-10T15:54:45.812221Z" modified="2024-08-10T15:54:46.062835Z" visited="2024-08-10T15:54:45.812222Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:54:45.812222Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:54:46.062834Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-wegw36.jpg" added="2024-08-10T15:54:48.596784Z" modified="2024-08-10T15:54:48.847045Z" visited="2024-08-10T15:54:48.596785Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:54:48.596786Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:54:48.847044Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-l8xr7p.jpg" added="2024-08-10T15:54:51.451673Z" modified="2024-08-10T15:54:51.702555Z" visited="2024-08-10T15:54:51.451673Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:54:51.451674Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:54:51.702553Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-o5qwqp.jpg" added="2024-08-10T15:54:53.795422Z" modified="2024-08-10T15:54:54.046429Z" visited="2024-08-10T15:54:53.795422Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:54:53.795423Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:54:54.046426Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-wegwgx.png" added="2024-08-10T15:54:56.045676Z" modified="2024-08-10T15:54:56.296362Z" visited="2024-08-10T15:54:56.045677Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:54:56.045678Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:54:56.296360Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-kxedwq.jpg" added="2024-08-10T15:54:58.801359Z" modified="2024-08-10T15:54:59.051798Z" visited="2024-08-10T15:54:58.801360Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:54:58.801361Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:54:59.051796Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-yx69pd.jpg" added="2024-08-10T15:55:01.192320Z" modified="2024-08-10T15:55:01.442640Z" visited="2024-08-10T15:55:01.192320Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:55:01.192321Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:55:01.442638Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-7pvmwo.jpg" added="2024-08-10T15:55:03.644301Z" modified="2024-08-13T04:11:38.167031Z" visited="2024-08-10T15:55:03.644302Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-13T04:11:38.167030Z" count="2"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-13T04:11:38.161857Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-zy79mj.jpg" added="2024-08-10T15:55:05.920869Z" modified="2024-08-10T15:55:06.171633Z" visited="2024-08-10T15:55:05.920870Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:55:05.920871Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:55:06.171631Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-7pvl3e.jpg" added="2024-08-10T15:55:08.365639Z" modified="2024-08-10T15:55:08.616517Z" visited="2024-08-10T15:55:08.365640Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:55:08.365641Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:55:08.616515Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-z8d57g.jpg" added="2024-08-10T15:55:12.287472Z" modified="2024-08-10T15:55:12.538478Z" visited="2024-08-10T15:55:12.287472Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:55:12.287473Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:55:12.538476Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-p9y51p.png" added="2024-08-10T15:55:14.971460Z" modified="2024-08-10T21:15:46.998854Z" visited="2024-08-10T15:55:14.971461Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T21:15:46.998853Z" count="2"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T21:15:46.991827Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-zy527w.png" added="2024-08-10T15:55:18.094152Z" modified="2024-08-10T15:55:18.344488Z" visited="2024-08-10T15:55:18.094153Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:55:18.094155Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:55:18.344486Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-4gk11l.jpg" added="2024-08-10T15:55:21.827199Z" modified="2024-08-10T15:55:22.077464Z" visited="2024-08-10T15:55:21.827201Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:55:21.827202Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:55:22.077462Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-85rpvy.png" added="2024-08-10T15:55:24.702017Z" modified="2024-08-10T15:55:24.953344Z" visited="2024-08-10T15:55:24.702018Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T15:55:24.702019Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T15:55:24.953342Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/25687.jpeg" added="2024-08-10T16:31:42.835767Z" modified="2024-08-10T16:31:43.086463Z" visited="2024-08-10T16:31:42.835768Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T16:31:42.835769Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T16:31:43.086461Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/25789.jpeg" added="2024-08-10T16:32:02.400682Z" modified="2024-08-10T16:32:02.651559Z" visited="2024-08-10T16:32:02.400683Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-10T16:32:02.400684Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-10T16:32:02.651557Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/city.list.json.gz" added="2024-08-11T10:17:46.600322Z" modified="2024-08-11T10:18:42.613363Z" visited="2024-08-11T10:17:46.600323Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-gzip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2024-08-11T10:18:42.304257Z" count="2"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-08-11T10:18:42.613362Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/.fonts/DroidSans.ttf" added="2024-08-11T10:24:12.243386Z" modified="2024-08-11T10:24:12.243392Z" visited="2024-08-11T10:24:12.243388Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2024-08-11T10:24:12.243390Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/.fonts/DroidSans-Bold.ttf" added="2024-08-11T10:24:15.312922Z" modified="2024-08-11T10:24:15.312924Z" visited="2024-08-11T10:24:15.312923Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2024-08-11T10:24:15.312923Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Personal/FOS000904104911.pdf" added="2024-08-11T12:24:58.418160Z" modified="2024-08-11T12:25:01.088609Z" visited="2024-08-11T12:24:58.418161Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2024-08-11T12:25:01.088608Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Personal/EAadhaar_0604306438275220220219144551_100320229957_unlocked.pdf" added="2024-08-11T12:25:05.387927Z" modified="2024-08-11T12:25:05.891799Z" visited="2024-08-11T12:25:05.387928Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2024-08-11T12:25:05.891796Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/Sahil-Chouksey-FlowCV-Resume-20240811%20(1).pdf" added="2024-08-11T13:39:25.102148Z" modified="2024-08-11T13:39:25.106841Z" visited="2024-08-11T13:39:25.102149Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-11T13:39:25.102151Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-11T13:39:25.106840Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/image%2040.jpg" added="2024-08-11T16:01:23.295782Z" modified="2024-08-11T16:01:23.295786Z" visited="2024-08-11T16:01:23.295783Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2024-08-11T16:01:23.295785Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/Frame%201171278645.svg" added="2024-08-11T16:14:28.901427Z" modified="2024-08-11T16:40:19.627502Z" visited="2024-08-11T16:14:28.901427Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-11T16:40:19.619113Z" count="6"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-11T16:40:19.627500Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/Frame%201171278645.jpg" added="2024-08-11T16:41:46.725210Z" modified="2024-08-11T16:42:54.395192Z" visited="2024-08-11T16:41:46.725210Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2024-08-11T16:41:46.725211Z" count="1"/>
+          <bookmark:application name="org.inkscape.Inkscape" exec="&apos;org.inkscape.Inkscape %u&apos;" modified="2024-08-11T16:42:54.395191Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/output.svg" added="2024-08-11T16:42:54.396515Z" modified="2024-08-11T16:42:54.396516Z" visited="2024-08-11T16:42:54.396515Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="org.inkscape.Inkscape" exec="&apos;org.inkscape.Inkscape %u&apos;" modified="2024-08-11T16:42:54.396516Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/Frame%201171278645%20(1).jpg" added="2024-08-11T16:43:38.237821Z" modified="2024-08-11T16:43:38.237824Z" visited="2024-08-11T16:43:38.237821Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2024-08-11T16:43:38.237823Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/Frame%201171278645%20(2).jpg" added="2024-08-11T16:43:49.520680Z" modified="2024-08-11T16:43:49.520684Z" visited="2024-08-11T16:43:49.520680Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2024-08-11T16:43:49.520683Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/nitecapp-figma" added="2024-08-12T04:50:02.393454Z" modified="2024-08-12T04:50:02.400696Z" visited="2024-08-12T04:50:02.393455Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-12T04:50:02.400695Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/Nitecapp%20Website%20-%2031st%20July%202024/Ellipse%208.png" added="2024-08-12T04:50:08.450128Z" modified="2024-08-12T04:50:08.450131Z" visited="2024-08-12T04:50:08.450129Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-08-12T04:50:08.450130Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/Nitecapp%20Website%20-%2031st%20July%202024/Frame%2089.png" added="2024-08-12T04:50:10.064505Z" modified="2024-08-12T04:50:10.064508Z" visited="2024-08-12T04:50:10.064505Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-08-12T04:50:10.064506Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/Nitecapp%20Website%20-%2031st%20July%202024/Frame%201171275236.png" added="2024-08-12T04:50:10.973184Z" modified="2024-08-12T04:50:10.973188Z" visited="2024-08-12T04:50:10.973185Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-08-12T04:50:10.973187Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/Nitecapp%20Website%20-%2031st%20July%202024/Frame%201171275237.png" added="2024-08-12T04:50:12.468519Z" modified="2024-08-12T04:50:12.468523Z" visited="2024-08-12T04:50:12.468520Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-08-12T04:50:12.468521Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/Nitecapp%20Website%20-%2031st%20July%202024/Frame%201171278647.png" added="2024-08-12T04:50:13.581197Z" modified="2024-08-12T04:50:13.581203Z" visited="2024-08-12T04:50:13.581198Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-08-12T04:50:13.581200Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/Nitecapp%20Website%20-%2031st%20July%202024/Frame%201171278646.png" added="2024-08-12T04:50:15.222589Z" modified="2024-08-12T04:50:15.222593Z" visited="2024-08-12T04:50:15.222590Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-08-12T04:50:15.222592Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/Nitecapp%20Website%20-%2031st%20July%202024/Rectangle%209521.png" added="2024-08-12T04:50:16.132764Z" modified="2024-08-12T04:50:16.132767Z" visited="2024-08-12T04:50:16.132764Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-08-12T04:50:16.132765Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/cdn" added="2024-08-12T10:21:02.041012Z" modified="2024-08-12T10:21:02.041016Z" visited="2024-08-12T10:21:02.041013Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-08-12T10:21:02.041014Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/cdn/nitecapp-cdn-assets.zip" added="2024-08-12T10:21:32.467921Z" modified="2024-08-12T10:21:32.467923Z" visited="2024-08-12T10:21:32.467921Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-08-12T10:21:32.467922Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/Nitecapp-website/src/app/favicon.ico" added="2024-08-13T07:49:27.627616Z" modified="2024-08-13T07:49:27.627619Z" visited="2024-08-13T07:49:27.627616Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/vnd.microsoft.icon"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2024-08-13T07:49:27.627618Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/Nitecapp-website/src/app/favicon%20(3).ico" added="2024-08-13T07:49:39.170938Z" modified="2024-08-13T07:49:39.170941Z" visited="2024-08-13T07:49:39.170939Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/vnd.microsoft.icon"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2024-08-13T07:49:39.170940Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/2024-08-13%20Contacts%20SERMA.xls" added="2024-08-13T10:43:10.510236Z" modified="2024-08-13T10:43:10.971400Z" visited="2024-08-13T10:43:10.510237Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-excel"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2024-08-13T10:43:10.971399Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Pictures/Screenshots/Screenshot%20from%202024-08-14%2010-47-40.png" added="2024-08-14T05:17:40.947434Z" modified="2024-08-14T05:17:40.947436Z" visited="2024-08-14T05:17:40.947434Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-08-14T05:17:40.947434Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/serma-backend.json" added="2024-08-14T07:05:11.549806Z" modified="2024-08-14T07:05:11.556210Z" visited="2024-08-14T07:05:11.549807Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.postman" exec="&apos;gio open %u&apos;" modified="2024-08-14T07:05:11.549807Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-14T07:05:11.556209Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/.fonts/Helvetica.ttf" added="2024-08-14T07:23:12.808093Z" modified="2024-08-14T07:23:12.808096Z" visited="2024-08-14T07:23:12.808094Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2024-08-14T07:23:12.808095Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/serma-admin-frontend/src/app/favicon.ico" added="2024-08-14T07:23:43.455890Z" modified="2024-08-14T07:23:43.455893Z" visited="2024-08-14T07:23:43.455890Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/vnd.microsoft.icon"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2024-08-14T07:23:43.455891Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/work/serma-admin-frontend/src/app/shared/fonts" added="2024-08-14T07:23:51.396333Z" modified="2024-08-14T07:23:51.396339Z" visited="2024-08-14T07:23:51.396334Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-08-14T07:23:51.396335Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-72ojly.jpg" added="2024-08-15T10:40:42.462051Z" modified="2024-08-15T10:40:42.712781Z" visited="2024-08-15T10:40:42.462053Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:40:42.462055Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:40:42.712778Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-e7rlew.jpg" added="2024-08-15T10:40:45.569309Z" modified="2024-08-15T10:40:45.819798Z" visited="2024-08-15T10:40:45.569310Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:40:45.569311Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:40:45.819795Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-l8x1pr.jpg" added="2024-08-15T10:40:55.816053Z" modified="2024-08-15T10:40:56.066860Z" visited="2024-08-15T10:40:55.816054Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:40:55.816055Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:40:56.066857Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-exgmgk.jpg" added="2024-08-15T10:41:01.245991Z" modified="2024-08-15T10:41:01.497097Z" visited="2024-08-15T10:41:01.245992Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:41:01.245993Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:41:01.497093Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-jxpzvw.jpg" added="2024-08-15T10:41:04.318934Z" modified="2024-08-15T10:41:04.570333Z" visited="2024-08-15T10:41:04.318935Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:41:04.318936Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:41:04.570330Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-o5qr8m.jpg" added="2024-08-15T10:41:10.206283Z" modified="2024-08-15T10:41:10.457152Z" visited="2024-08-15T10:41:10.206284Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:41:10.206285Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:41:10.457149Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-vqj63m.jpg" added="2024-08-15T10:41:18.399606Z" modified="2024-08-15T10:41:18.650076Z" visited="2024-08-15T10:41:18.399607Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:41:18.399608Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:41:18.650074Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-1pvv1w.jpg" added="2024-08-15T10:41:21.162711Z" modified="2024-08-15T10:41:21.413354Z" visited="2024-08-15T10:41:21.162712Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:41:21.162713Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:41:21.413350Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-1pvvm9.jpg" added="2024-08-15T10:41:23.710618Z" modified="2024-08-15T10:41:23.960792Z" visited="2024-08-15T10:41:23.710619Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:41:23.710620Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:41:23.960789Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-6d35jw.jpg" added="2024-08-15T10:41:26.727892Z" modified="2024-08-15T10:41:26.978832Z" visited="2024-08-15T10:41:26.727893Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:41:26.727894Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:41:26.978829Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-p911ze.jpg" added="2024-08-15T10:41:31.426211Z" modified="2024-08-15T10:41:31.676524Z" visited="2024-08-15T10:41:31.426212Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:41:31.426213Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:41:31.676521Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-6d3dmx.jpg" added="2024-08-15T10:45:01.552947Z" modified="2024-08-15T10:45:01.803533Z" visited="2024-08-15T10:45:01.552948Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:45:01.552949Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:45:01.803530Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-6d3zkl.jpg" added="2024-08-15T10:45:04.057910Z" modified="2024-08-15T10:45:04.308471Z" visited="2024-08-15T10:45:04.057916Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:45:04.057917Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:45:04.308468Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-x6ojrd.png" added="2024-08-15T10:45:07.691393Z" modified="2024-08-15T10:45:07.942538Z" visited="2024-08-15T10:45:07.691394Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:45:07.691395Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:45:07.942535Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-qzkd55.jpg" added="2024-08-15T10:45:11.308891Z" modified="2024-08-15T10:45:11.559959Z" visited="2024-08-15T10:45:11.308892Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:45:11.308893Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:45:11.559956Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-7pv6x9.jpg" added="2024-08-15T10:45:17.487671Z" modified="2024-08-15T10:45:17.738332Z" visited="2024-08-15T10:45:17.487672Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:45:17.487673Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:45:17.738324Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-d6j633.jpg" added="2024-08-15T10:45:20.045023Z" modified="2024-08-15T10:45:20.296276Z" visited="2024-08-15T10:45:20.045024Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:45:20.045024Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:45:20.296273Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-zy79mj%20(1).jpg" added="2024-08-15T10:45:23.276491Z" modified="2024-08-15T10:45:23.527475Z" visited="2024-08-15T10:45:23.276492Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:45:23.276493Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:45:23.527472Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-6d3d6l.png" added="2024-08-15T10:45:26.065787Z" modified="2024-08-15T10:45:26.317219Z" visited="2024-08-15T10:45:26.065788Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:45:26.065789Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:45:26.317216Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-d6jzvg.jpg" added="2024-08-15T10:45:28.637008Z" modified="2024-08-15T10:45:28.887522Z" visited="2024-08-15T10:45:28.637009Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:45:28.637011Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:45:28.887518Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-5gvjo8%20(1).jpg" added="2024-08-15T10:45:34.644512Z" modified="2024-08-15T10:45:34.896947Z" visited="2024-08-15T10:45:34.644513Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:45:34.644515Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:45:34.896945Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-rr9gkm.png" added="2024-08-15T10:45:37.776127Z" modified="2024-08-15T10:45:38.027431Z" visited="2024-08-15T10:45:37.776129Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:45:37.776130Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:45:38.027428Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-m35wlm.jpg" added="2024-08-15T10:45:41.159346Z" modified="2024-08-15T10:45:41.410510Z" visited="2024-08-15T10:45:41.159347Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:45:41.159349Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:45:41.410507Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-zy7m6j.png" added="2024-08-15T10:45:44.581420Z" modified="2024-08-15T10:45:44.831526Z" visited="2024-08-15T10:45:44.581421Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:45:44.581424Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:45:44.831524Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-exge5w.jpg" added="2024-08-15T10:45:47.950318Z" modified="2024-08-15T10:45:48.200841Z" visited="2024-08-15T10:45:47.950319Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:45:47.950321Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:45:48.200838Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-7pvjjv.jpg" added="2024-08-15T10:45:51.753628Z" modified="2024-08-15T10:45:52.004586Z" visited="2024-08-15T10:45:51.753629Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:45:51.753630Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:45:52.004582Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-o5q689.jpg" added="2024-08-15T10:45:54.679728Z" modified="2024-08-15T10:45:54.930436Z" visited="2024-08-15T10:45:54.679729Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:45:54.679730Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:45:54.930433Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-9dv7o1.jpg" added="2024-08-15T10:46:00.073843Z" modified="2024-08-15T10:46:00.324478Z" visited="2024-08-15T10:46:00.073844Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:46:00.073846Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:46:00.324475Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-9dv6p1.png" added="2024-08-15T10:46:04.968688Z" modified="2024-08-15T10:46:05.219500Z" visited="2024-08-15T10:46:04.968689Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:46:04.968690Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:46:05.219497Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-6d3p6q.png" added="2024-08-15T10:46:07.905323Z" modified="2024-08-15T10:46:08.155637Z" visited="2024-08-15T10:46:07.905324Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:46:07.905325Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:46:08.155633Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-gp6qql.jpg" added="2024-08-15T10:46:12.547002Z" modified="2024-08-15T10:46:12.797687Z" visited="2024-08-15T10:46:12.547003Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:46:12.547004Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:46:12.797684Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-6d32l7.jpg" added="2024-08-15T10:46:18.797020Z" modified="2024-08-15T10:46:19.048348Z" visited="2024-08-15T10:46:18.797021Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:46:18.797022Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:46:19.048345Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-3lv393.jpg" added="2024-08-15T10:46:26.288013Z" modified="2024-08-15T10:46:26.538505Z" visited="2024-08-15T10:46:26.288015Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:46:26.288017Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:46:26.538502Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-rr9gxw.png" added="2024-08-15T10:46:29.075147Z" modified="2024-08-16T12:07:23.333262Z" visited="2024-08-15T10:46:29.075148Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-16T12:07:23.333260Z" count="2"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-16T12:07:23.324460Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-6d373x.jpg" added="2024-08-15T10:46:32.120383Z" modified="2024-08-15T10:46:32.371474Z" visited="2024-08-15T10:46:32.120384Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:46:32.120385Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:46:32.371471Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-o5qwgl.png" added="2024-08-15T10:46:36.324018Z" modified="2024-08-15T10:46:36.575169Z" visited="2024-08-15T10:46:36.324019Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:46:36.324020Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:46:36.575166Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-p91jop.png" added="2024-08-15T10:46:39.467610Z" modified="2024-08-15T10:46:39.717665Z" visited="2024-08-15T10:46:39.467611Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:46:39.467612Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:46:39.717663Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-o5qw8p%20(1).jpg" added="2024-08-15T10:46:43.584630Z" modified="2024-08-15T10:46:43.834814Z" visited="2024-08-15T10:46:43.584631Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:46:43.584633Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:46:43.834811Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-1pv23v.jpg" added="2024-08-15T10:46:55.874220Z" modified="2024-08-15T10:46:56.124990Z" visited="2024-08-15T10:46:55.874221Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:46:55.874222Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:46:56.124988Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-o5qmmm.png" added="2024-08-15T10:47:00.300505Z" modified="2024-08-15T10:47:00.550711Z" visited="2024-08-15T10:47:00.300505Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:47:00.300506Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:47:00.550709Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-d6jzy3.png" added="2024-08-15T10:47:03.926399Z" modified="2024-08-15T10:47:04.177576Z" visited="2024-08-15T10:47:03.926400Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:47:03.926401Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:47:04.177573Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-vqjzo5.jpg" added="2024-08-15T10:47:07.429658Z" modified="2024-08-15T10:47:07.680389Z" visited="2024-08-15T10:47:07.429659Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:47:07.429659Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:47:07.680386Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Documents/wallpapers/wallhaven-exgg1l.png" added="2024-08-15T10:47:10.807991Z" modified="2024-08-15T10:47:11.059231Z" visited="2024-08-15T10:47:10.807992Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-15T10:47:10.807993Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-15T10:47:11.059228Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/IMG_3522.MOV" added="2024-08-16T08:25:37.087500Z" modified="2024-08-16T08:25:37.087517Z" visited="2024-08-16T08:25:37.087505Z">
+    <title>IMG_3522.MOV</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/quicktime"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2024-08-16T08:25:37.087511Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/drive-download-20240816T082733Z-001/IMG_3490.JPG" added="2024-08-16T08:28:34.027682Z" modified="2024-08-16T08:28:34.027686Z" visited="2024-08-16T08:28:34.027683Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-08-16T08:28:34.027684Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/drive-download-20240816T082733Z-001/c7fef740-8fca-4be3-99c7-0f25dd91e735.jpeg" added="2024-08-16T08:31:36.108631Z" modified="2024-08-16T08:32:23.660225Z" visited="2024-08-16T08:31:36.108632Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-16T08:31:36.108634Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-16T08:31:36.360400Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-08-16T08:32:23.660221Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/drive-download-20240816T082733Z-001/ea4ac8c8-df34-4d33-acfe-092e1cfd066c.jpeg" added="2024-08-16T08:31:44.068737Z" modified="2024-08-16T08:32:23.660239Z" visited="2024-08-16T08:31:44.068738Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-16T08:31:44.068739Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-16T08:31:44.323081Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-08-16T08:32:23.660237Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/drive-download-20240816T082733Z-001/54fa92bf-46e5-4130-bb72-5100a7fd3250.jpeg" added="2024-08-16T08:31:48.832325Z" modified="2024-08-16T08:32:23.660194Z" visited="2024-08-16T08:31:48.832326Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-16T08:31:48.832327Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-16T08:31:49.066781Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-08-16T08:32:23.660191Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/drive-download-20240816T082733Z-001/2b5040fa-a6ff-455e-9213-940eb2ab1ba7.jpeg" added="2024-08-16T08:31:51.416167Z" modified="2024-08-16T08:32:23.660158Z" visited="2024-08-16T08:31:51.416168Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-16T08:31:51.416169Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-16T08:31:51.666518Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-08-16T08:32:23.660154Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/drive-download-20240816T082733Z-001/eab6e2c7-d299-4f14-9abb-dffe613b4aed.jpeg" added="2024-08-16T08:31:53.927799Z" modified="2024-08-16T12:08:19.879146Z" visited="2024-08-16T08:31:53.927800Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-16T12:08:19.879144Z" count="2"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-16T12:08:19.874112Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-08-16T08:32:23.660246Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/drive-download-20240816T082733Z-001/33b4d48d-8513-4a08-ba2f-8a4ba2d88f87.jpeg" added="2024-08-16T08:31:56.396002Z" modified="2024-08-16T08:32:23.660179Z" visited="2024-08-16T08:31:56.396003Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-16T08:31:56.396004Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-16T08:31:56.646951Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-08-16T08:32:23.660176Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Downloads/drive-download-20240816T082733Z-001/31473222-d501-4af9-a037-ad167ee35ba7.jpeg" added="2024-08-16T08:31:58.938515Z" modified="2024-08-16T08:32:23.660209Z" visited="2024-08-16T08:31:58.938516Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-16T08:31:58.938518Z" count="1"/>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-16T08:31:59.189941Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nsxiv %F&apos;" modified="2024-08-16T08:32:23.660206Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Pictures/Screenshots/2024-08-17_18-43.png" added="2024-08-17T13:13:32.267312Z" modified="2024-08-17T13:13:32.278126Z" visited="2024-08-17T13:13:32.267313Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-17T13:13:32.267315Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-17T13:13:32.278124Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Pictures/Screenshots/2024-08-18_00-32.png" added="2024-08-17T19:03:16.090976Z" modified="2024-08-17T19:03:16.097745Z" visited="2024-08-17T19:03:16.090977Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-17T19:03:16.090978Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-17T19:03:16.097744Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/Pictures/Screenshots/2024-08-18_11-34.png" added="2024-08-18T06:05:07.412280Z" modified="2024-08-18T06:05:07.423480Z" visited="2024-08-18T06:05:07.412281Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.chromium" exec="&apos;gio open %u&apos;" modified="2024-08-18T06:05:07.412283Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-08-18T06:05:07.423477Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/.dotfiles" added="2024-08-18T06:06:50.269545Z" modified="2024-08-18T06:06:50.269554Z" visited="2024-08-18T06:06:50.269547Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-08-18T06:06:50.269548Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/config" added="2024-08-18T06:07:05.185346Z" modified="2024-08-18T06:07:05.185353Z" visited="2024-08-18T06:07:05.185347Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;vim %F&apos;" modified="2024-08-18T06:07:05.185350Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/.dotfiles/.config" added="2024-08-18T06:07:49.169682Z" modified="2024-08-18T06:07:49.169690Z" visited="2024-08-18T06:07:49.169683Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-08-18T06:07:49.169686Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/.dotfiles/.config/nvim" added="2024-08-18T06:07:55.977270Z" modified="2024-08-18T06:07:55.977281Z" visited="2024-08-18T06:07:55.977271Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-08-18T06:07:55.977275Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/.dotfiles/.config/tmux/tmux.conf" added="2024-08-18T06:13:33.605567Z" modified="2024-08-18T06:13:33.605576Z" visited="2024-08-18T06:13:33.605568Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;vim %F&apos;" modified="2024-08-18T06:13:33.605570Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/.dotfiles/.config/tmux/tmux/tmux.conf" added="2024-08-18T06:13:46.237358Z" modified="2024-08-18T06:13:46.237366Z" visited="2024-08-18T06:13:46.237360Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;vim %F&apos;" modified="2024-08-18T06:13:46.237362Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/.dotfiles/tmux.conf" added="2024-08-18T06:14:42.437511Z" modified="2024-08-18T06:14:42.437517Z" visited="2024-08-18T06:14:42.437512Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;vim %F&apos;" modified="2024-08-18T06:14:42.437514Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/.dotfiles/tmux/tmux.conf" added="2024-08-18T06:14:53.734619Z" modified="2024-08-18T06:14:53.734624Z" visited="2024-08-18T06:14:53.734619Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;vim %F&apos;" modified="2024-08-18T06:14:53.734621Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/xix3r/.dotfiles/.local" added="2024-08-18T06:19:19.152434Z" modified="2024-08-18T06:19:19.152441Z" visited="2024-08-18T06:19:19.152436Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-08-18T06:19:19.152439Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

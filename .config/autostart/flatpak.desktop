@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=flatpak run com.brave.Browser
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=false
+Name[en_US]=Brave
+Name=Brave
+Comment[en_US]=Starting brave in startup
+Comment=Starting brave in startup

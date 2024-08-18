@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/code
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=VS-Code
+Name=VS-Code
+Comment[en_US]=Starting VS code in startup
+Comment=Starting VS code in startup

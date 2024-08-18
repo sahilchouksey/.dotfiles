@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# Check if a file argument is provided
+if [ -z "$1" ]; then
+    echo "Usage: kopy <file>"
+    exit 1
+fi
+
+# Check if the file exists
+if [ ! -f "$1" ]; then
+    echo "File not found!"
+    exit 1
+fi
+
+# Copy the file content to the clipboard using xclip
+xclip -selection clipboard < "$1"
+
+echo "Content of $1 copied to clipboard."
+

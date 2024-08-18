@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/alacritty
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=false
+Name[en_US]=Alacritty
+Name=Alacritty
+Comment[en_US]=Starting alacritty in startup
+Comment=Starting alacritty in startup

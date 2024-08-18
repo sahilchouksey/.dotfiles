@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/kitty
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Kitty
+Name=Kitty
+Comment[en_US]=Get kitty started
+Comment=Get kitty started
