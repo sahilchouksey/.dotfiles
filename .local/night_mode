@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# Check if a parameter is provided
+if [ "$1" = "off" ]; then
+  # Turn off night mode
+  redshift -x
+  echo "Night mode turned off."
+elif [ "$1" = "dark" ]; then
+  TEMP="2700K"
+  redshift -O "$TEMP"
+  echo "Night mode set to $TEMP."
+else
+  # Set night mode temperature (default or specify a temperature)
+  TEMP="${1:-3500K}"  # Default to 3500K if no parameter is provided
+  redshift -O "$TEMP"
+  echo "Night mode set to $TEMP."
+fi
+
+
+

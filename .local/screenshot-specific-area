@@ -1,0 +1,4 @@
+#!/bin/bash
+# Take a screenshot of a specific area
+scrot -s -e 'xclip -selection clipboard -target image/png -i $f'
+

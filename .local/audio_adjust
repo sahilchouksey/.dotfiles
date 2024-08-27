@@ -1,0 +1,36 @@
+#!/bin/bash
+
+# Get the active (RUNNING) sink index
+ACTIVE_SINK=$(pactl list sinks short | grep RUNNING | awk '{print $1}')
+
+# Check if a sink was found
+if [ -z "$ACTIVE_SINK" ]; then
+  echo "No active audio sink found."
+  exit 1
+fi
+
+# Get the current mute status of the active sink
+MUTE_STATUS=$(pactl list sinks | grep -A 15 "Sink #$ACTIVE_SINK" | grep Mute | awk '{print $2}')
+
+# Subcommands: increase, decrease, mute
+case $1 in
+  increase)
+    # Unmute if muted before increasing volume
+    if [ "$MUTE_STATUS" = "yes" ]; then
+        pactl set-sink-mute "$ACTIVE_SINK" toggle
+        pactl set-sink-volume "$ACTIVE_SINK" 0%
+    fi
+    pactl set-sink-volume "$ACTIVE_SINK" +10%
+    ;;
+  decrease)
+    pactl set-sink-volume "$ACTIVE_SINK" -10%
+    ;;
+  mute)
+    pactl set-sink-mute "$ACTIVE_SINK" toggle
+    ;;
+  *)
+    echo "Usage: $0 {increase|decrease|mute}"
+    exit 1
+    ;;
+esac
+
