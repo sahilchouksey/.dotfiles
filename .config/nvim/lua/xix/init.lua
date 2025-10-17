@@ -1,8 +1,9 @@
+require("xix.lazy")
 require("xix.remap")
 require("xix.set")
 
 local augroup = vim.api.nvim_create_augroup
-local ThePrimeagenGroup = augroup('ThePrimeagen', {})
+local xix3r = augroup('xix3r', {})
 
 local autocmd = vim.api.nvim_create_autocmd
 local yank_group = augroup('HighlightYank', {})
@@ -23,7 +24,7 @@ autocmd('TextYankPost', {
 })
 
 autocmd({"BufWritePre"}, {
-    group = ThePrimeagenGroup,
+    group = xix3r,
     pattern = "*",
     command = [[%s/\s\+$//e]],
 })
@@ -31,3 +32,9 @@ autocmd({"BufWritePre"}, {
 vim.g.netrw_browse_split = 0
 vim.g.netrw_banner = 0
 vim.g.netrw_winsize = 25
+
+--- SET WRAP ON
+vim.opt.wrap = true
+
+
+

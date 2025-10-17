@@ -1,5 +1,8 @@
 require("xix")
 
+vim.opt.termguicolors = true
+
+
 require("CopilotChat").setup {
   debug = true, -- Enable debugging
   -- See Configuration section for rest
@@ -70,7 +73,32 @@ require("todo-comments").setup {
   },
 }
 
+--equire('orgmode').setup({
+-- org_agenda_files = {'~/orgfiles/**/*'},
+-- org_default_notes_file = '~/orgfiles/refile.org',
+--)
+
+--equire('cmp').setup({
+-- sources = {
+--   { name = 'orgmode' }
+-- }
+--)
 
 -- Echoing todo list from ~/todo.md
 require("notify")(vim.fn.system("task list"))
+
+
+local sources = {
+  { name = "nvim_lsp" },
+  { name = "buffer", keyword_length = 5 },
+  { name = "luasnip" },
+  { name = "emoji" },
+}
+
+
+require('orgmode').setup({
+  org_agenda_files = {'~/orgfiles/**/*'},
+  org_default_notes_file = '~/orgfiles/refile.org',
+})
+
 

@@ -29,3 +29,8 @@ vim.opt.isfname:append("@-@")
 vim.opt.updatetime = 50
 
 vim.opt.colorcolumn = "80"
+
+-- Using for avante.nvim
+vim.opt.laststatus = 3
+
+
